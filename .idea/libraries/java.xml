@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="java">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Desktop/java-jmh-junit-utilities-develop/src/main/java" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$USER_HOME$/Desktop/java-jmh-junit-utilities-develop/src/main/java/pl/wavesoftware/jmh/junit/utilities" />
+    </excluded>
+  </library>
+</component>
